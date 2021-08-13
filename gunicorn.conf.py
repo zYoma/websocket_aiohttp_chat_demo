@@ -1,4 +1,4 @@
-bind = "176.57.215.48:5005"
+bind = "0.0.0.0:5005"
 timeout = 36000
 workers = 1
 max_requests = 1000
